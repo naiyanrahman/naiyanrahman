@@ -1,16 +1,43 @@
-### Hi there 👋
+<!-- Github README -->
 
-<!--
-**naiyan-official/naiyan-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><a href="https://github.com/naiyan-official">
 
-Here are some ideas to get you started:
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=naiyan-official&hide_border=true" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb<li> 😇 <i>Muslim</i></li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<li> 😇 <i>Muslim</i></li>
+
+<li> 😐 <i>Studying at Elections Engineering</i></li>
+
+<li> 😪 <i>Love Sleeping</i></li>
+
+<li> 💔 <i>Born Single</i></li>
+
+<li> 🐍 <i>Trying to learn Programing & SQLI</i></li>
+
+<li> 🤐 <i>Aim : secret</i></li>
+
+<h3><b><i>☠ Works :</i></b></h3>
+
+<li> <a href="https://github.com/naiyan-official/RDP">RDP - Free Remote desktop Protocol RDP</a>
+
+<li> <a href="https://github.com/naiyan-official/gf-hack">GF hack prank tool.</a>
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+
+<a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=naiyan-official&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+
+<a href="https://github.com/naiyan-official"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=naiyan-official&color=blueviolet&style=flat-square"></a>
+
+<h3><b><i>📡 Get in Touch :</i></b></h3>
+
+<a href="https://github.com/naiyan-official"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
+
+<a href="https://fb.com/naiyanarrahman"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
+
+<a href="https://m.me/naiyanarrahman"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
+
+<a href="https://www.instagram.com/N4IY4N"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
+
+
