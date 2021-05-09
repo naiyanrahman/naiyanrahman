@@ -2,9 +2,10 @@
 
 <p align="center"><a href="https://github.com/naiyan-official">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=naiyan-official&hide_border=true" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb<li> 😇 <i>Muslim</i></li>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=naiyan-official&hide_border=true" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb<li> 
+  😇 <i>Muslim</i></li>
 
-<li> 😇 <i>Muslim</i></li>
+
 
 <li> 😐 <i>Studying at Elections Engineering</i></li>
 
