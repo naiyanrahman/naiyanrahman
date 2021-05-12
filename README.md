@@ -3,7 +3,9 @@
 <p align="center"><a href="https://github.com/naiyan-official">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=naiyan-official&hide_border=true" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb<li> 
-  😇 <i>Muslim</i></li>
+  <a href="https://github.com/naiyan-official"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiyan-official&layout=compact&theme=react&hide_border=true" />
+</a></p>
+😇 <i>Muslim</i></li>
 
 
 
