@@ -9,7 +9,7 @@
 </a></p>
 <li> 😇 <i>Muslim</i></li>
 
-<li> 😐 <i>Studying at Elections Engineering</i></li>
+<li> 😐 <i>Studying at EEE </i></li>
 
 <li> 😪 <i>Love Sleeping</i></li>
 
