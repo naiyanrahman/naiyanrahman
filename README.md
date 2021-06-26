@@ -1,6 +1,6 @@
 <!-- Github README -->
 
-**_Hello World, I'm  [Naiyan](www.naiyan.me)_**
+**_Hello World, I'm  [Naiyan](https://www.naiyan.me)_**
 
 <p align="center"><a href="https://github.com/naiyan-official">
 
