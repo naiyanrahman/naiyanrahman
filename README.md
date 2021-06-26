@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://github.com/naiyan-official">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=naiyan-official&hide_border=true" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li> 
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=naiyan-official&hide_border=true" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li> 
   <a href="https://github.com/naiyan-official"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiyan-official&layout=compact&theme=react&hide_border=true" />
 </a></p>
 <li> 😇 <i>Muslim</i></li>
